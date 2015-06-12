@@ -1,9 +1,23 @@
 # [DESCRIPTION] Script used for Apply function workshop
-# [AUTHOR] Richard Pugh
+# [AUTHOR] Richard Pugh (ed. Amos Folarin)
 # [KEYWORDS] apply, function, sapply, lapply, tapply, aggregate, by
 
 # Set working directory
-setwd("~/tmp/hackhour_vectorized-stuff/")
+setwd("D:\\Mango\\Marketing\\LondonR\\Sep13\\Apply Workshop")
+
+
+#Loops and such control flow exists in R but are typically seen less than might be expected
+for(x in 1:10)
+{
+    print(x)
+}
+
+# As a data analysis tool and functional programming language, almost everything in R is vectorized.
+# The principle goal here is to speed up and clarify the types of code you'll most likely be writing 
+#e.g. 
+#outer(x,y, FUN) function
+#Use FUN on every pairwise combination of x and y.
+
 
 # Try to find the "apply" family of functions ...
 apropos("apply")
