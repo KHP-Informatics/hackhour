@@ -7,7 +7,7 @@ Topics are wide ranging. Coding & discussion will be **lively & informal**. If y
 
 If you want to run a session, then email me: amosfolarin@gmail.com
 
-Each week's hackhour topic will live in a folder in this repo... we typically vote on the next hackhour topic at the end the previous week. List of suggested sessions are listed in [./Suggestions](./Suggestions)
+Each week's hackhour topic will live in a folder in this repo... we typically vote on the next hackhour topic at the end the previous week. List of suggested sessions are listed in [./Suggestions.md](./Suggestions.md)
 
 
 Hackhour 1 -- Test Driven Development (Ismail Kartoglu)
