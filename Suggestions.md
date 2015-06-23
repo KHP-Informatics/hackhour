@@ -11,6 +11,13 @@ Suggestions for upcoming hackhour sessions:
 - A walk through the sleep monitoring application (a part called SensorBot platform)
 - Cognition-DNC (and )
 - Python intro
-- 
+- AJAX intro
+- Arduino
+- ngrams
+- Consumer Producer Model (Pub/Sub, Queues)
+- Postgres json/jsonb datatype
+- Linux Tips
+- Java Spring: MVC
+- SLAM DEV (if we can get it working!)
 
 
