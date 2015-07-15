@@ -32,4 +32,21 @@ https://processing.org/ programmatic visual tool.
 - Rich -- creative work on using processing to produce very cool wordclouds
 
 
+## Proposals
+
+Hackhour TBA (The Group)
+
+### Apache Spark Workshop 
+
+URL : https://github.com/deanwampler/spark-workshop
+
+
+>Dean Wampler, Ph.D. Typesafe dean.wampler@typesafe.com @deanwampler
+>This workshop demonstrates how to write and run Apache Spark version 1.4 applications. You can run the examples and exercises locally on a workstation, on Hadoop (which could also be on your workstation), or both.
+>If you are most interested in using Spark with Hadoop, the Hadoop vendors have preconfigured, virtual machine "sandboxes" with Spark included. See their websites for information.
+>For more advanced Spark training and services from Typesafe, please visit typesafe.com/reactive-big-data.
+
+
+
+
 
