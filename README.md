@@ -34,11 +34,12 @@ https://processing.org/ programmatic visual tool.
 
 ## Proposals
 
-Hackhour TBA (The Group)
-
-### Apache Spark Workshop 
+Hackhour TBC : Apache Spark Workshop 
+--------------------------------------------------
+Group dive into spark:
 
 URL : https://github.com/deanwampler/spark-workshop
+
 
 
 >Dean Wampler, Ph.D. Typesafe dean.wampler@typesafe.com @deanwampler
