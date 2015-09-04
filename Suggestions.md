@@ -19,5 +19,6 @@ Suggestions for upcoming hackhour sessions:
 - Linux Tips
 - Java Spring: MVC
 - SLAM DEV (if we can get it working!)
+- NoSQL DBs with SQL type interface (crate.io, Cloudera Impala)
 
 
