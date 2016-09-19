@@ -45,6 +45,9 @@ URL : https://github.com/deanwampler/spark-workshop
 >If you are most interested in using Spark with Hadoop, the Hadoop vendors have preconfigured, virtual machine "sandboxes" with Spark included. See their websites for information.
 >For more advanced Spark training and services from Typesafe, please visit typesafe.com/reactive-big-data.
 
+NOTE: There seems to be some basic interest in running a Spark Hackhour (Honghan, Amos, Francesco etc) so perhaps we should do this first? As it happens Spark 2.0 has just been released with a slew of updates and improved func.
+[http://www.zdnet.com/article/spark-2-0-aims-to-make-streaming-a-first-class-citizen/](http://www.zdnet.com/article/spark-2-0-aims-to-make-streaming-a-first-class-citizen/)
+
 
 Hackhour TBC: Docker and Containerization
 ------------------------------------------
