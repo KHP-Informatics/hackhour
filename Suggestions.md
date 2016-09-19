@@ -3,6 +3,9 @@ Suggestions for upcoming hackhour sessions:
 (in no particular order)
 
 - Docker intro and hands-on session
+- Play around with DeepLearning TensorFlow
+- Angular?
+- Apache Kafka?
 - Agent Based Modelling
 - Word2Vec
 - Swagger RESTful API framework
