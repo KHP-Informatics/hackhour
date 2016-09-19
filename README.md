@@ -40,12 +40,24 @@ Group dive into spark:
 
 URL : https://github.com/deanwampler/spark-workshop
 
-
-
 >Dean Wampler, Ph.D. Typesafe dean.wampler@typesafe.com @deanwampler
 >This workshop demonstrates how to write and run Apache Spark version 1.4 applications. You can run the examples and exercises locally on a workstation, on Hadoop (which could also be on your workstation), or both.
 >If you are most interested in using Spark with Hadoop, the Hadoop vendors have preconfigured, virtual machine "sandboxes" with Spark included. See their websites for information.
 >For more advanced Spark training and services from Typesafe, please visit typesafe.com/reactive-big-data.
+
+
+Hackhour TBC: Docker and Containerization
+------------------------------------------
+Learn how to create containers for myriad of purposes.
+Amos, Steve?
+
+
+Hackhour TBC: Play around with DeepLearning TensorFlow
+------------------------------------------------------
+TensorFlow is Google's framework for Deep(and Wide) Learning. 
+Zina, Amos?
+
+
 
 
 
